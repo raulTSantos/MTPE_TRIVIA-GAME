@@ -39,7 +39,8 @@ history_options = [["Pachacútec", "Manco Cápac", "Wiracocha", "Sinchi Roca"],
                        "08/07/1821 Simón Bolivar"
                    ]]
 history_answer = [
-    "Manco Cápac", "Pachacútec", "Blasco Núñez de Vela", "Junín y Ayacucho"
+    "Manco Cápac", "Pachacútec", "Blasco Núñez de Vela",
+    "28/07/1821 Don José de San Martin"
 ]
 #=================================================================================
 # LISTAS DE PREGUNTAS, OPCIONES , RESPUESTAS (Deporte)
